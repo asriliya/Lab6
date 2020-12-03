@@ -16,36 +16,24 @@ Disini saya menggunakan coding seperti ini :
 
 information :
 
-Kalian bisa menggunakan list atau dictionary sesuai keinginan kalian sendiri tapi tentu saja list dan dictionary berbeda ya tapi kegunaanya sama.
-
 def tambah, def digunakan untuk membuat fungsi lalu tambah digunakan agar ketika kita memilih menu tambah langsung mengeksekusi syntax tersebut.
 
-Lalu if digunakan untuk mengeksekusi data yang di dictionary menggunakan nama(True).
+if digunakan untuk mengeksekusi data yang di dictionary menggunakan nama(True).
 
 ![Screenshot (144)](https://user-images.githubusercontent.com/72993076/101027194-5fa08580-35aa-11eb-994b-5728105c9faf.png)
 ![Screenshot (146)](https://user-images.githubusercontent.com/72993076/101027195-60391c00-35aa-11eb-8794-060c82400ec0.png)
 
 information : 
 
-Lalu for i = 0 digunakan untuk membuat nomor urut otomatis dibagian No. didalam table.
+for i = 0 digunakan untuk membuat nomor urut otomatis dibagian No. didalam table.
 
-Lalu kita gunakan for x gunanya untuk format penampilan data nilai mahasiswa.
+for x gunanya untuk format penampilan data nilai mahasiswa.
 
 lalu gunanya angka yang di dalam {} itu di gunakan untuk membatasi atau bisa di bilang seperti tab agar data yang di tampilkan lebih rapih.
 
-Lalu else disini di gunakan ketika kita belum menginputkan atau menambahkan data apapun akan muncul tidak ada data(False).
+else disini di gunakan ketika kita belum menginputkan atau menambahkan data apapun akan muncul tidak ada data(False).
 
 ![Screenshot (147)](https://user-images.githubusercontent.com/72993076/101027204-629b7600-35aa-11eb-9108-ff3c779e703c.png)
-
-information :
-
-Kita gunakan perulangan while True untuk membuat pilihan menunya. 
-
-Lalu kita gunakan if dan elif agar ketika kita memiih menu 1, 2, 3, 4, atau 5 kita akan memasuki syntax yang def tadi.
-
-Lalu dibawahnya kita gunakan tambah, tampil, hapus, dan ubah untuk mengeksekusi syntax yang tadi, itulah kenapa kita menulisnya def tambah, def tampil, def hapus, dan def ubah.
-
-lalu kita break kita gunakan untuk keluar dari program tersebut.
 
 # Hasil output : 
 
